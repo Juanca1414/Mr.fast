@@ -1,1 +1,39 @@
+body{
+background-image: url(./fondo\ bonito.jpg);
 
+}
+.cuadro-rojo {
+    background-color: #280101;
+    color: white;
+    padding: 50px;
+    width: 300px;
+    text-align: center;
+   margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transform: translate(-10%, -5%);
+    font-size: 200%;
+  }
+  .buena{
+    width: 500px; 
+    position: absolute;
+    transform: translate(10%, -20%); 
+    top: 20%;
+    left: 50%;
+  }
+
+  .imagen-9{
+    max-width: 75%; 
+    transform: translate(-20%, -50%); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+
+.imagen-11{
+    max-width: 5%; 
+    transform: translate(-20%, -50%); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}

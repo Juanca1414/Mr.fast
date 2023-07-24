@@ -1,1 +1,43 @@
+body {
+
+background-image: url(./imagen-papas-fritas_251819-930.avif);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.imagen-1{
+    max-width: 70%; 
+    transform: translate(-50%, -50%); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+.imagen-2{
+    max-width: 70%; 
+    transform: translate(-50%, -50%); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    cursor: pointer;
+}
+
+.imagen-3{
+    max-width: 100px; 
+    position: absolute; 
+    bottom: 5px; 
+    left: 10px; 
+    
+}
+
+.imagen-4{
+
+    max-width: 100px; 
+    position: absolute; 
+    bottom: 5px; 
+    left: 110px; 
+
+}
+
 
